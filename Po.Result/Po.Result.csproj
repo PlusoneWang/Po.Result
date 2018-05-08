@@ -2,6 +2,12 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>Po.Result</PackageId>
+    <Authors>Plusone</Authors>
+    <Description>執行結果類別，附有數個靜態方法供快速呼叫。</Description>
+    <PackageProjectUrl>https://github.com/PlusoneWang/Po.Result</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/PlusoneWang/Po.Result/blob/master/LICENSE</PackageLicenseUrl>
+    <Company />
   </PropertyGroup>
 
 </Project>
