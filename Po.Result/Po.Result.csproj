@@ -8,6 +8,11 @@
     <PackageProjectUrl>https://github.com/PlusoneWang/Po.Result</PackageProjectUrl>
     <PackageLicenseUrl>https://github.com/PlusoneWang/Po.Result/blob/master/LICENSE</PackageLicenseUrl>
     <Company />
+    <Version>1.0.1</Version>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>bin\Debug\netstandard2.0\Po.Result.xml</DocumentationFile>
   </PropertyGroup>
 
 </Project>
